@@ -1,0 +1,8 @@
+id=KANG
+name=Kang
+version=1.5.0
+versionCode=150
+author=@illumi
+description=Slight improvements for non-rooted devices.
+banner=Kang.jpg
+axeronPlugin=11200
